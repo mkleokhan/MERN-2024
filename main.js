@@ -1,6 +1,4 @@
-mene line pe changes kiye...
-
-12345676345756746856768
+274376254865274528745872
 const EvenOdd=()=>{
     console.log("Even Odd function...")
 }
