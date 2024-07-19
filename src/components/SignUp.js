@@ -13,7 +13,7 @@ function Signup() {
     </form> */}
   
         
-        <div className="container mt-4 myContainer">
+        <div className="container mt-4 myContainer backgroundimage">
         
           <h1>Sign up as Landlord</h1>
           
@@ -58,7 +58,7 @@ function Signup() {
   </div>
   <div class="col-12">
     <button type="submit" class="btn btn-primary">Sign Up</button>
-    <h4>Already have an account??? <Link to='/SignIn'>Sign in here</Link></h4>
+    <h4>Already have an account??? <Link  className="whiteLinks" to='/SignIn'>Sign in here</Link></h4>
   </div>
 </form>
           </div>

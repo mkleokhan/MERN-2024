@@ -1,3 +1,7 @@
 MOSH==>> HTML
 TRAVERSY MEDIA==>
 CODEVOLUTION
+
+flex box kisi ik direction me chalta he. ofcourse we can change its direction.
+primary-axis==>> justify waali properties.
+cross axis====>> align waali properties
